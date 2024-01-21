@@ -1,7 +1,6 @@
 # The relationship between periodontal disease and cancer: Insights from a Systematic Literature Network Analysis
 
-This is the official repository for the paper: "The relationship between periodontal disease and cancer: Insights from a Systematic Literature Network Analysis"
-
+ 
  
  <br> 
  
