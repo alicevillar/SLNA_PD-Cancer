@@ -1,0 +1,9 @@
+human,humans
+nonhuman,animals,animal
+periodontal disease,periodontitis
+human,humans
+nonhuman,animals
+animal,animals
+periodontal disease,periodontal diseases
+cardiovascular diseases, cardiovascular disease 
+
