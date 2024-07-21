@@ -5,7 +5,7 @@
  <br> 
  
  
->Welcome to the official repository for the paper titled "The relationship between periodontal disease and cancer: Insights from a Systematic Literature Network Analysis". This repository contains all the necessary files for Bibliometrix. 
+>Welcome to the official repository for the paper titled "The relationship between periodontal disease and cancer: Insights from a Systematic Literature Network Analysis". This repository contains all the necessary files for Bibliometrix. Published in the Elsevier Journal - Cancer Epidemiology. 
  
  Villar, A., Mendes, B., Viègas, M., de Aquino Alexandre, A. L., Paladini, S., & Cossatis, J. (2024). The relationship between periodontal disease and cancer: Insights from a Systematic Literature Network Analysis. Cancer Epidemiology, 91, 102595.
  <br> 
