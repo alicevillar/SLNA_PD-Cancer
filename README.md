@@ -5,13 +5,8 @@
  <br> 
  
  
->Welcome to the official repository for the paper titled "The relationship between periodontal disease and cancer: Insights from a Systematic Literature Network Analysis". This repository contains all the necessary files for Bibliometrix. Click  [**HERE**](https://www.sciencedirect.com/science/article/abs/pii/S1877782124000742) to read the article.
-
-
-* CITE:
-
-> Villar, A., Mendes, B., Viègas, M., de Aquino Alexandre, A. L., Paladini, S., & Cossatis, J. (2024). The relationship between periodontal disease and cancer: Insights from a Systematic Literature Network Analysis. Cancer Epidemiology, 91, 102595.
-
+>Welcome to the official repository for the paper titled "Molecular Mechanisms and Clinical Implications of Propofol in Breast Cancer Treatment: A Systematic Literature Network Analysis". This repository contains all the necessary files for Bibliometrix. 
+ 
  
  <br> 
  
@@ -25,8 +20,7 @@
  
 ## 1. Overview 
  <br> 
-This study, which is based on secondary data, employed the Systematic Literature Network Analysis (SLNA) method, combining bibliographic analysis and Systematic Literature Review (SLR) to investigate the relationship between periodontal disease (PD) and Cancer. The analysis involved 164 documents published between 2000 and 2023 and utilized Bibliometrix software for multiple bibliometric analyses, drawing on publications from SCOPUS database. The authors have committed to transparency and reproducibility in their research. They have uploaded the bibliometric analysis materials to a GitHub repository, ensuring easy public access and review.  
-
+ 
 <br>  
 
 ## 2. Tools 
