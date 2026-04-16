@@ -27,6 +27,6 @@
 
 * [**Bibliometix**](https://www.bibliometrix.org/home/) - used for multiple bibliometric analyses.
 * [**Scopus**](https://www.scopus.com/) - used to collect academic documents.
-* [**Article**]([https://www.scopus.com/](https://www.sciencedirect.com/science/article/abs/pii/S1877782124000742) - Open Access
+* [**Article**](https://www.sciencedirect.com/science/article/abs/pii/S1877782124000742) - Open Access
  
  
