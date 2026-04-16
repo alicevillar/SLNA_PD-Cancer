@@ -9,7 +9,8 @@
  
  Villar, A., Mendes, B., Viègas, M., de Aquino Alexandre, A. L., Paladini, S., & Cossatis, J. (2024). The relationship between periodontal disease and cancer: Insights from a Systematic Literature Network Analysis. Cancer Epidemiology, 91, 102595.
  <br> 
- 
+ * [**Article**](https://www.sciencedirect.com/science/article/abs/pii/S1877782124000742) - Open Access
+
 <h1>Table of Contents</h1>
  
 <!-- TOC -->
@@ -27,6 +28,5 @@
 
 * [**Bibliometix**](https://www.bibliometrix.org/home/) - used for multiple bibliometric analyses.
 * [**Scopus**](https://www.scopus.com/) - used to collect academic documents.
-* [**Article**](https://www.sciencedirect.com/science/article/abs/pii/S1877782124000742) - Open Access
- 
+  
  
